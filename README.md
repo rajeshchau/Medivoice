@@ -153,7 +153,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 For questions or support, reach out via:
 - **GitHub Issues**: [https://github.com/rajeshchau/Medivoice/issues](https://github.com/rajeshchau/Medivoice/issues)
-- **Email**: [rajeshchau@example.com](mailto:rajeshchau@example.com)
+- **Email**: [rc8807928@gmail.com](mailto:rc8807928@gmail.com)
 
 ---
 
