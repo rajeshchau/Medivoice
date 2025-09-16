@@ -76,18 +76,18 @@ bun install
 ### 3️⃣ Configure Environment Variables
 Create a `.env.local` file in the root directory and add the necessary environment variables. Example:
 ```env
-# Speech AI Services
-OPENAI_API_KEY=your_openai_api_key
-ELEVENLABS_API_KEY=your_elevenlabs_api_key
-GOOGLE_SPEECH_API_KEY=your_google_speech_api_key
-AWS_ACCESS_KEY_ID=your_aws_access_key
-AWS_SECRET_ACCESS_KEY=your_aws_secret_key
-
-# Database
-DATABASE_URL=your_database_connection_string
-
-# Other configurations
-NEXT_PUBLIC_API_URL=http://localhost:3000/api
+DATABASE_URL=
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=
+NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_REDIRECT_URL=
+NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_REDIRECT_URL=
+OPEN_ROUTER_API_KEY=
+NEXT_PUBLIC_VAPI_API_KEY=
+NEXT_PUBLIC_VAPI_VOICE_ASSISTANT_ID=
 ```
 
 Refer to `.env.example` for a complete list of required variables.
