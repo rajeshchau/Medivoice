@@ -6,9 +6,6 @@ import { UserButton, useUser } from "@clerk/nextjs";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
-
-
-
 export default function HeroSectionOne() {
   const consultationData = [
     {
