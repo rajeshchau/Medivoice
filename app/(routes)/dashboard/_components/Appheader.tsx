@@ -14,6 +14,16 @@ const menuOption=[
         id:2,
         name:'History',
         path:'/dashboard/history'
+    },
+    {
+        id:3,
+        name:"Prices",
+        path:'/dashboard/price'
+    },
+    {
+        id:4,
+        name:'Contact',
+        path:'/dashboard/contact'
     }
 ]
 
